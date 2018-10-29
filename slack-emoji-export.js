@@ -10,7 +10,7 @@ try {
   // ignore
 }
 
-const apiToken = 'xoxp-170644065895-281812649813-281037470320-90ae66e9a99464e5d1a692a3d05c0814'; // ここにAPIトークンを貼り付ける。
+const apiToken = '<your Token>'; // ここにAPIトークンを貼り付ける。
 const slack = new Slack(apiToken);
 const intervalMillisec = 200;
 
