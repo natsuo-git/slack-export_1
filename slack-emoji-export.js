@@ -10,7 +10,7 @@ try {
   // ignore
 }
 
-const apiToken = '<your Token>'; // ここにAPIトークンを貼り付ける。
+const apiToken = '<your Token>'; //ここにAPIトークンを貼り付ける。
 const slack = new Slack(apiToken);
 const intervalMillisec = 200;
 
